@@ -1,0 +1,8 @@
+
+99385 entries implies that:
+ the quicksort n log n solution is proportional to 496658 or 500k
+ the bubblesort is n*n and is proportional to 9,877,378k or 10k worse
+ run time is in order of 10sec, could be <1sec, plus case if filtering is included...
+
+Filtering:
+ best case adds only factor of N, but in a store we
